@@ -1,0 +1,30 @@
+{
+  "name": "f23wa41bobba",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "test":""
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "^4.3.4",
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.2"
+  },
+  "description": "assignment-pug part of course",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url":""
+  },
+  "keywords": [
+    "webapps",
+    "lab",
+    "assignment"
+  ],
+  "author": "Tejeshwar Bobba - S567141",
+  "license": "ISC"
+}
